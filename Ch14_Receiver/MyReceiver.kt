@@ -1,4 +1,4 @@
-package com.example.ch14_receiver
+package com.haeun.ch14_receiver
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
