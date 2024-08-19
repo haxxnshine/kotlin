@@ -1,4 +1,4 @@
-package com.example.ch13_activity
+package com.haeun.ch13_activity
 
 import android.content.Context
 import android.graphics.Color
