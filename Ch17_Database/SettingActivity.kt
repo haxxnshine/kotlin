@@ -1,4 +1,4 @@
-package com.example.ch17_database
+package com.haeun.ch17_database
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
