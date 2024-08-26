@@ -1,4 +1,4 @@
-package com.example.ch18_network.recycler
+package com.haeun.ch18_network.recycler
 
 import android.content.Context
 import android.view.LayoutInflater
