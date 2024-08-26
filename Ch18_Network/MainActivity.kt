@@ -1,4 +1,4 @@
-package com.example.ch18_network
+package com.haeun.ch18_network
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
