@@ -1,4 +1,4 @@
-package com.example.ch17_database
+package com.haeun.ch17_database
 
 import android.content.Intent
 import android.os.Bundle
