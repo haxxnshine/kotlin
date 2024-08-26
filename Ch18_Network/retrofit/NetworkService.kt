@@ -1,4 +1,4 @@
-package com.example.ch18_network.retrofit
+package com.haeun.ch18_network.retrofit
 
 import com.example.ch18_network.model.PageListModel
 import retrofit2.Call
