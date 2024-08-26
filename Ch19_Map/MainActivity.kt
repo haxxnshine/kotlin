@@ -1,4 +1,4 @@
-package com.example.ch19_map
+package com.haeun.ch19_map
 
 import android.Manifest
 import android.content.pm.PackageManager
