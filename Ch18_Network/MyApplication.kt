@@ -1,4 +1,4 @@
-package com.example.ch18_network
+package com.haeun.ch18_network
 
 import android.app.Application
 import com.example.ch18_network.retrofit.NetworkService
